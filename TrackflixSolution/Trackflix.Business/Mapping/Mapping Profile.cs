@@ -11,7 +11,7 @@ namespace Trackflix.Business.Mapping
             // RegisterDto -> User (password handled in service, map fields other than password)
             CreateMap<UserRegisterDto, User>()
                 .ForMember(dest => dest.PasswordHash, opt => opt.Ignore())
-                .ForMember(dest => dest.Role, opt => o/pt.Ignore());
+                .ForMember(dest => dest.Role, opt => opt.Ignore());
 
             // User -> UserDto (response)
             CreateMap<User, UserDto>()
