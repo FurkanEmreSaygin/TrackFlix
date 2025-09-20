@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trackflix.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2840fda957acda8445ee61dc0e15e3af4bbc484a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4955a696d961078d1dfc5ff71023526a8b64e70")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trackflix.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trackflix.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

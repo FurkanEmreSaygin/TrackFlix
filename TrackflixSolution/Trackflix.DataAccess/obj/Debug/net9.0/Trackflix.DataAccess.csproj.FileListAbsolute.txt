@@ -1,0 +1,16 @@
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\bin\Debug\net9.0\Trackflix.DataAccess.deps.json
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\bin\Debug\net9.0\Trackflix.DataAccess.dll
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\bin\Debug\net9.0\Trackflix.DataAccess.pdb
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\bin\Debug\net9.0\Trackflix.Entities.dll
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\bin\Debug\net9.0\Trackflix.Entities.pdb
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.csproj.AssemblyReference.cache
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.AssemblyInfoInputs.cache
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.AssemblyInfo.cs
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.sourcelink.json
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackfli.018971AE.Up2Date
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.dll
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\refint\Trackflix.DataAccess.dll
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\Trackflix.DataAccess.pdb
+C:\Users\furky\Desktop\Track\TrackFlix\TrackflixSolution\Trackflix.DataAccess\obj\Debug\net9.0\ref\Trackflix.DataAccess.dll

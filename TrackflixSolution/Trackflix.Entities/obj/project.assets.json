@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furky\\Desktop\\Track\\trackflix\\TrackflixSolution\\Trackflix.Entities\\Trackflix.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\furky\\Desktop\\Track\\TrackFlix\\TrackflixSolution\\Trackflix.Entities\\Trackflix.Entities.csproj",
       "projectName": "Trackflix.Entities",
-      "projectPath": "C:\\Users\\furky\\Desktop\\Track\\trackflix\\TrackflixSolution\\Trackflix.Entities\\Trackflix.Entities.csproj",
+      "projectPath": "C:\\Users\\furky\\Desktop\\Track\\TrackFlix\\TrackflixSolution\\Trackflix.Entities\\Trackflix.Entities.csproj",
       "packagesPath": "C:\\Users\\furky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furky\\Desktop\\Track\\trackflix\\TrackflixSolution\\Trackflix.Entities\\obj\\",
+      "outputPath": "C:\\Users\\furky\\Desktop\\Track\\TrackFlix\\TrackflixSolution\\Trackflix.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furky\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
